@@ -1,0 +1,8 @@
+~Shot Gun Bullets
+--Damage = 4
+
+~Pistol and Machine Gun Bullets
+--Damage = 1
+
+~Specail Bullets 
+--Damage = 5

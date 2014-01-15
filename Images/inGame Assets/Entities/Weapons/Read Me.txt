@@ -1,0 +1,36 @@
+~Shotgun
+--Clip Size = 5
+--Fire Rate = 0.5 Seconds between each bullet
+--Damage = 4
+--Upgrades
+---4 upgrades for damage, starts at 1 damage incriments by 1
+---3 upgrades for fire rate, starts at 2.0 and incriments by 0.5
+---2 upgrades fo clip size, starts at 3 incriments by 1
+
+~Pistol
+--Clip Size = 12
+--Fire Rate = Semi-Auto
+--Damage = 1
+--Upgrades
+---3 upgrades for fire rate, starts at 2 then goes to 1 then to Semi-Auto
+---3 upgrades for clip size, starts at 6 incriments by 2
+
+~Machine Gun
+--Clip Size = 45
+--Fire Rate = Automatic
+--Damage = 1
+--Upgrades
+---3 upgrades for clip size, starts at 30 incriments by 5
+
+~Fire Axe
+--Swing Rate = Every 4 seconds
+--Damage = 6 bars
+--Upgrades
+---2 upgrades for Damage, starts at 2 then goes to 4 then 6
+---4 upgrades for Swing Rate, starts at 6 incriments by 0.5
+
+~Machete
+--Swing Rate = Every 1.5 second
+--Damage = 2 bars
+--Upgrades
+---3 upgrades for Swing rate, incriments by 1

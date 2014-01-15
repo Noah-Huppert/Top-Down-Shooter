@@ -1,0 +1,141 @@
+~ammo
+--For display amount of ammo left
+
+~squadMeter1(note: use _16 or _64)
+--shows player and one squad member in a box
+
+~squadMeter2(note: user _16 or _64)
+--shows player and two other squad memers in a box
+
+~squadMeter3(note: user _16 or _64)
+--Shows player and three other squad members in a box
+
+~squadMeter4(note: user _16 or _64)
+--shows player and four other squad members in a box
+
+~squadMeter5(note use _16 or _64)
+--shows player and five other squad mumbers in a box
+
+~healthBar
+--Goes in healthBarFrame, should be spaced so they can just go right next to each other w/ out extra spacing
+
+~healthBarFrame
+--Were healthBar goes part of ui. goes in upper left corner
+
+~staminaBar
+--Goes in staminaBarFrame, should be spaced so they can just go right next to each other w/ out extra spacing
+
+~weaponSelect
+--put over current weapon in ui, should be on right side
+
+~smallMedkit
+--Heals 2 bars of health
+
+~bigMedKit
+--Heals 5 bars of health
+
+~badGuyLeft
+--For bad guy walk cycle, left foot fowards
+
+~badGuyRight
+--For bad guy walk cycle, right foot fowards
+
+~badGuyStanding
+--neutral position in the bad guy walk cycle
+
+~specialBadGuyLeft
+--part of specail bad guys walk cycle, left foot forward
+
+~specialBadGuyRight
+--part of special bad guys walk cycle, right foot forward
+
+~specialBadGuyStanding
+--the neutral phase of special bad guys walk cycle
+
+~bullet
+--For shooting bullets. Depnds on gun for damage
+
+~bulletSpecial
+--For shooting Specail bullets. Depnds on guy and gun for damage
+
+~fireAxe
+--Does 6 bars of damage
+--Rate of swing = every 6 seconds
+
+~machete
+--Does 2 bars of damage
+--Rate of swing = every 1.5 seconds
+
+~machineGun
+--Does 1 bar of damage
+--Rate of fire = Automatic
+
+~pistol
+--Does 1 bar of damage
+--Rate of fire = semi auto
+
+~shotgun
+--Does 4 bars of damage
+--Rate of fire = every 0.5 seconds
+
+~goodGuyLeft
+--for good guy walk cycle. Left foot forward
+
+~goodGuyRight
+--for good guy walk cycle. Right foot forward
+
+~goodGuyStandin
+--neutral position in good guy walk cycle
+
+~left
+--part of charecter walk cycle, left foot forward
+
+~right 
+--part of charecter walk cycle, right foot foward
+
+~standing
+--neutral phase of charecter walk cycle
+
+~personFireAxe
+--player holding a fire axe
+
+~personMachete
+--player holding machete
+
+~personMachineGun
+--player holding a machine gun
+
+~personPistol
+--player holding the pistol
+
+~personShotgun
+--player holding a shotgun
+
+~logov1
+--"Top Down Shooter" with overline
+
+~logov2
+--"Top Down Shooter" with overline and less swirly underline
+
+~logov3
+--"Top Down Shooter" with same underline and overline
+
+~logov4
+--"Top down Shooter" with same underline and overline and edges
+
+~logov5
+--"Top Down Shooter" with same underline and overline
+
+~NotPressed
+--button not pressed
+
+~Pressed
+--button pressed
+
+~SplashScreen
+--"Top Down Shooter" next line has a picture of megaman, next line "Darkstorm Productions"
+
+~SplashScreenv2
+--"Top Down Shooter", next line picture of player holding machine gun, next line "Darkstorm Productions"
+
+

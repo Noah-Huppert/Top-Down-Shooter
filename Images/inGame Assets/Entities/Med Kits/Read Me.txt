@@ -1,0 +1,3 @@
+~Small Med Kits will heal 2 bars of health
+
+~Large Med Kits Will heal 5 bars of health

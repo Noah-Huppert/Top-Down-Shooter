@@ -1,0 +1,525 @@
+
+inGameAssets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+healthBarFrame
+  rotate: false
+  xy: 1, 225
+  size: 238, 40
+  orig: 238, 40
+  offset: 0, 0
+  index: -1
+SplashScreen
+  rotate: false
+  xy: 1, 103
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+SplashScreenv2
+  rotate: false
+  xy: 123, 103
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+logov1
+  rotate: false
+  xy: 1, 53
+  size: 128, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+logov2
+  rotate: false
+  xy: 1, 3
+  size: 128, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+staminaBarFrame
+  rotate: false
+  xy: 241, 225
+  size: 121, 40
+  orig: 121, 40
+  offset: 0, 0
+  index: -1
+logov3
+  rotate: false
+  xy: 364, 217
+  size: 128, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+logov4
+  rotate: false
+  xy: 494, 217
+  size: 128, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+logov5
+  rotate: false
+  xy: 624, 217
+  size: 128, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+ammo64
+  rotate: false
+  xy: 131, 37
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+badGuyLeft64
+  rotate: false
+  xy: 245, 159
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+badGuyRight64
+  rotate: false
+  xy: 245, 93
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+badGuyStanding64
+  rotate: false
+  xy: 754, 201
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bigMedKit64
+  rotate: false
+  xy: 820, 201
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bullet64
+  rotate: false
+  xy: 311, 151
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bulletSpecial64
+  rotate: false
+  xy: 377, 151
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fireAxe64
+  rotate: false
+  xy: 443, 151
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+goodGuyLeft64
+  rotate: false
+  xy: 509, 151
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+goodGuyRight64
+  rotate: false
+  xy: 575, 151
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+goodGuyStanding64
+  rotate: false
+  xy: 641, 151
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+left64
+  rotate: false
+  xy: 311, 85
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+machete64
+  rotate: false
+  xy: 377, 85
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+machineGun64
+  rotate: false
+  xy: 443, 85
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+personFireAxe64
+  rotate: false
+  xy: 509, 85
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+personMachete64
+  rotate: false
+  xy: 575, 85
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+personMachineGun64
+  rotate: false
+  xy: 641, 85
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+personPistol64
+  rotate: false
+  xy: 707, 135
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+personShotgun64
+  rotate: false
+  xy: 773, 135
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pistol64
+  rotate: false
+  xy: 707, 69
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+right64
+  rotate: false
+  xy: 773, 69
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shotgun64
+  rotate: false
+  xy: 839, 135
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+smallMedKit64
+  rotate: false
+  xy: 839, 69
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+specialBadGuyLeft64
+  rotate: false
+  xy: 197, 27
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+specialBadGuyRight64
+  rotate: false
+  xy: 263, 19
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+specialBadGuyStanding64
+  rotate: false
+  xy: 329, 19
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+squadMeter1
+  rotate: false
+  xy: 395, 19
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 64
+squadMeter2
+  rotate: false
+  xy: 461, 19
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 64
+squadMeter3
+  rotate: false
+  xy: 527, 19
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 64
+squadMeter4
+  rotate: false
+  xy: 593, 19
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 64
+healthBar
+  rotate: false
+  xy: 886, 225
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+staminaBar
+  rotate: false
+  xy: 659, 43
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+squadMeter5
+  rotate: false
+  xy: 686, 3
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 64
+standing64
+  rotate: false
+  xy: 752, 3
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+weaponSelect64
+  rotate: false
+  xy: 818, 3
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ammo16
+  rotate: false
+  xy: 131, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badGuyLeft16
+  rotate: false
+  xy: 886, 207
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badGuyRight16
+  rotate: false
+  xy: 659, 25
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+badGuyStanding16
+  rotate: false
+  xy: 884, 51
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bigMedKit16
+  rotate: false
+  xy: 149, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bullet16
+  rotate: false
+  xy: 884, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bulletSpecial16
+  rotate: false
+  xy: 167, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fireAxe16
+  rotate: false
+  xy: 884, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goodGuyLeft16
+  rotate: false
+  xy: 131, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goodGuyRight16
+  rotate: false
+  xy: 149, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goodGuyStanding16
+  rotate: false
+  xy: 167, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+left16
+  rotate: false
+  xy: 659, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+machete16
+  rotate: false
+  xy: 185, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+machineGun16
+  rotate: false
+  xy: 203, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NotPressed
+  rotate: false
+  xy: 221, 9
+  size: 16, 16
+  split: 7, 8, 7, 8
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+personFireAxe16
+  rotate: false
+  xy: 239, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+personMachete16
+  rotate: false
+  xy: 257, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+personMachineGun16
+  rotate: false
+  xy: 275, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+personPistol16
+  rotate: false
+  xy: 293, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+personShotgun16
+  rotate: false
+  xy: 311, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pistol16
+  rotate: false
+  xy: 329, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Pressed
+  rotate: false
+  xy: 347, 1
+  size: 16, 16
+  split: 7, 8, 7, 8
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+right16
+  rotate: false
+  xy: 365, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+shotgun16
+  rotate: false
+  xy: 383, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+smallMedKit16
+  rotate: false
+  xy: 401, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+specialBadGuyLeft16
+  rotate: false
+  xy: 419, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+specialBadGuyRight16
+  rotate: false
+  xy: 437, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+specialBadGuyStanding16
+  rotate: false
+  xy: 455, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+standing16
+  rotate: false
+  xy: 473, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+weaponSelect16
+  rotate: false
+  xy: 491, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

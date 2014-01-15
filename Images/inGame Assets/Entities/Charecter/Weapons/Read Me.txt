@@ -1,0 +1,22 @@
+~Shotgun
+--Clip Size = 5
+--Fire Rate = 0.5 Seconds between each bullet
+--Damage = 4
+
+~Pistol
+--Clip Size = 12
+--Fire Rate = Semi-Auto
+--Damage = 1
+
+~Machine Gun
+--Clip Size = 45
+--Fire Rate = Automatic
+--Damage = 1
+
+~Fire Axe
+--Swing Rate = Every 6 seconds
+--Damage = 6 bars
+
+~Machete
+--Swing Rate = Every 1.5 second
+--Damage = 2 bars

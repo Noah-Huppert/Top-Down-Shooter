@@ -1,0 +1,4 @@
+~Player
+--Health = 10 bars
+--Normal Speed = Normal
+--Sprint Speed = Twice as fast

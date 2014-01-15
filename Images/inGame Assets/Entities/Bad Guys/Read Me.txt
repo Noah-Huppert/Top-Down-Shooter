@@ -1,0 +1,7 @@
+~Normal Bad Guys
+--Damage = 2
+--Speed = Regular
+
+~Specail bad Guys
+--Damage = 5
+--Speed = Twice as fast
